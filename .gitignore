@@ -1,0 +1,7 @@
+# 凭据（绝不提交）
+*.env
+wx_mp.env
+
+# 本地生成的封面 / 文章产物（非 skill 本体）
+cover.png
+cover.html
